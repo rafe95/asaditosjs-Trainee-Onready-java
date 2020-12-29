@@ -31,3 +31,6 @@ La solución debe cumplir con los siguientes requisitos:
 - NO usar librerías de terceros.
 - Cargar la lista de autos en un único método. No hay ingreso por pantalla de ningún tipo.
 - El algoritmo usado para la impresión no tiene que depender de la cantidad, modelo o tipo de vehículo.
+
+### Requisitos:
+- Java 11
